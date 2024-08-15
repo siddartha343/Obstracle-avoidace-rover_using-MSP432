@@ -1,4 +1,4 @@
-# Obstacle Avoidance Rover
+# Obstacle Avoidance Rover_MSP432
 
 ## Description
 This project showcases a simple obstacle avoidance rover built using an MSP432 board in C. The rover utilizes infrared (IR) sensors to detect obstacles and navigate around them. The code provided is self-explanatory and easy to edit according to your requirements.
